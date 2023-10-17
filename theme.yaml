@@ -1,0 +1,10 @@
+name: "Autovm"
+description: "autovm Company"
+author: "autovm Company, L.L.C."
+config:
+  parent: standard_cart
+dependencies:
+  bootstrap: 4.5.3
+# provides:
+#   jquery: 1.12
+#   fontawesome: 5
